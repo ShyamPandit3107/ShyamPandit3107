@@ -40,13 +40,5 @@ I'm a **highly motivated Full Stack Developer** with a strong background in deve
 - **Hackathon:** 3rd place at D.Y. Patil National Level Hackathon (2023)
 - **CodeChef:** Ranked 96th out of 20,000+ participants in CodeChef Long Challenge (2022)
 
-### 🌍 Volunteer Experience
-- **Community Lead @ Developer Student Clubs Pune** (Jan 2023 - Jun 2023): Led technical and soft-skills training for over 3000 students.
-
-### 📫 Get in Touch
-- **Email:** shyambpandit3107@gmail.com
-- **GitHub:** [shyambpandit3107](https://github.com/shyambpandit3107)
 
 ---
-
-This README file highlights your technical skills, experience, and accomplishments, presenting a comprehensive overview of your professional profile. Feel free to modify it according to your preferences.
