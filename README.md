@@ -4,7 +4,7 @@ Based on the information from your resume, here's a well-structured GitHub profi
 
 ## 👋 Hello, I'm Shyam Pandit
 
-[![GitHub followers](https://img.shields.io/github/followers/shyambpandit3107?label=Follow&style=social)](https://github.com/shyambpandit3107)
+[![GitHub followers](https://img.shields.io/github/followers/shyambpandit3107?label=Follow&style=social)](https://github.com/ShyamPandit3107)
 
 ### 🚀 About Me
 I'm a **highly motivated Full Stack Developer** with a strong background in developing and deploying scalable web applications. My passion lies in solving complex problems and driving innovative solutions, whether it's through building microservices architectures, cloud-based solutions, or AI-driven projects.
